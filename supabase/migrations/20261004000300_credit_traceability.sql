@@ -227,3 +227,4 @@ BEGIN
 END;
 $$;
 GRANT EXECUTE ON FUNCTION public.get_credit_ledger(bigint) TO anon, authenticated;
+
